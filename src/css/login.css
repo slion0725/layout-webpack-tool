@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.test1 {
+  color: red;
+  transform: scale(0.3);
+  background:url("../images/007cars/c2.jpg");
+}
+
+.test2 {
+  color: yellow;
+  transform: scale(0.8);
+}
